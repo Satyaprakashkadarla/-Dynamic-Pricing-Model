@@ -1,0 +1,28 @@
+# Machine Learning Algorithms
+catboost==1.2.5         # Gradient boosting on decision trees (efficient for categorical features)
+lightgbm==4.3.0         # Fast gradient boosting framework (efficient with large data)
+xgboost==2.0.3          # Scalable and flexible gradient boosting library
+scikit-learn==1.2.2     # Core ML tools for model development, evaluation, and pipelines
+
+# Data Manipulation & Computation
+numpy==1.23.5           # Core numerical computing library
+pandas==1.5.3           # Data structures and analysis tools
+scipy==1.13.1           # Scientific computing and advanced statistical functions
+
+# Visualization & Analytics
+matplotlib==3.7.4       # 2D plotting library for customized visualizations
+seaborn==0.11.0         # Statistical data visualization built on matplotlib
+joypy==0.2.6            # Joyplots (ridgeline plots) for distributions
+ptitprince==0.2.7       # Visualization for categorical data using raincloud plots
+shap==0.45.1            # Model explainability through SHAP values
+phik==0.12.4            # Advanced correlation analysis for categorical & ordinal data
+
+# Statistical Modeling
+statsmodels==0.14.2     # Estimation of statistical models, hypothesis testing, etc.
+
+# Utility & Runtime Info
+joblib==1.2.0           # Serialization for model objects and parallel processing
+session_info==1.0.0     # Capture runtime environment details for reproducibility
+
+# App & Interface
+streamlit==1.36.0       # Build interactive web apps for ML demos and dashboards
